@@ -1,0 +1,16 @@
+# vsim -vopt spi_top -c -do "run -all; exit" 
+# Start time: 23:10:08 on Dec 13,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** License Issue: License request for qhsimvl feature failed
+# ** License Issue: Invalid host. (C:\questasim64_10.7c\win64\LICENSE.TXT)
+# ** License Issue: Invalid host. (C:\questasim64_10.7c\win64\LICENSE.TXT)
+# ** License Issue: Invalid host. (C:\questasim64_10.7c\win64\LICENSE.TXT)
+# ** License Issue: Invalid host. (C:\questasim64_10.7c\win64\LICENSE.TXT)
+# ** License Issue: Invalid host. (C:\questasim64_10.7c\win64\LICENSE.TXT)
+# ** License Issue: Invalid host. (C:\questasim64_10.7c\win64\LICENSE.TXT)
+# ** License Issue: Invalid host. (C:\questasim64_10.7c\win64\LICENSE.TXT)
+# ** License Issue: Cannot find license file. (C:\flexlm\license.dat)
+# ** Error: Failure to obtain a Verilog simulation license. Unable to checkout any of these license features: 'qhsimvl' or 'msimhdlsim'.
+# Error loading design
+# End time: 23:10:15 on Dec 13,2024, Elapsed time: 0:00:07
+# Errors: 0, Warnings: 0
